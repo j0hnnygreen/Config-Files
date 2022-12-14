@@ -1,5 +1,5 @@
 set number
-
+syntax on
 set expandtab
 set autoindent
 set softtabstop=4
